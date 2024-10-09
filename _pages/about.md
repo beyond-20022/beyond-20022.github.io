@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+layout: single
 ---
 
 Welcome to Beyond 20022, your go-to resource for everything related to ISO 20022, the global standard for financial messaging. Our blog is dedicated to exploring how this standard is transforming the future of financial communication, starting with a deep dive into payments. As ISO 20022 continues to shape the payments landscape, we'll provide expert insights, practical guides, and industry updates to keep you informed and ahead of the curve.
