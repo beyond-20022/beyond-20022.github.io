@@ -59,6 +59,12 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-8DN6RHH1WV"
+    anonymize_ip: false # default
+
 author:
   name   : "First Lastname"
   avatar : "/assets/images/bio-photo.jpg"
