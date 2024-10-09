@@ -3,6 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Welcome to Beyond 20022, your go-to resource for everything related to ISO 20022, the global standard for financial messaging. Our blog is dedicated to exploring how this standard is transforming the future of financial communication, starting with a deep dive into payments. As ISO 20022 continues to shape the payments landscape, we'll provide expert insights, practical guides, and industry updates to keep you informed and ahead of the curve.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+In the future, we’ll expand our focus to cover other critical domains such as securities and trade, offering a comprehensive view of how ISO 20022 impacts the broader financial ecosystem.
+
+Whether you're a finance professional, tech enthusiast, or simply curious about the future of financial systems, Beyond 20022 is here to guide you through this transformative journey.
+
+Stay informed, stay ahead, and explore Beyond 20022.
