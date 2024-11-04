@@ -1,5 +1,5 @@
 ---
-title: "Publication of the First Verification of Payee Scheme Rulebook"
+title: "Publication of the Verification of Payee API Specifications"
 date: 2024-10-24T12:00:00+02:00
 categories:
   - blog
