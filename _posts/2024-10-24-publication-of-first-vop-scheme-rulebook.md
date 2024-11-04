@@ -10,8 +10,6 @@ values:
     author_profile: false
 ---
 
-## Publication of the First Verification of Payee Scheme Rulebook
-
 The European Payments Council (EPC) has officially issued the [first version of the Verification of Payee (VOP) scheme rulebook](https://www.europeanpaymentscouncil.eu/document-library/rulebooks/verification-payee-scheme-rulebook) following a public consultation. This rulebook is designed to help payment service providers (PSPs) across the Single Euro Payments Area (SEPA) meet the new regulatory requirements outlined in the EU Instant Payments Regulation (IPR), which amends the SEPA Regulation. 
 
 **What is VOP all about?**
