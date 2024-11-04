@@ -12,7 +12,7 @@ values:
 
 ## Publication of the First Verification of Payee Scheme Rulebook
 
-The European Payments Council (EPC) has officially issued the first version of the Verification of Payee (VOP) scheme rulebook following a public consultation. This rulebook is designed to help payment service providers (PSPs) across the Single Euro Payments Area (SEPA) meet the new regulatory requirements outlined in the EU Instant Payments Regulation (IPR), which amends the SEPA Regulation. 
+The European Payments Council (EPC) has officially issued the [first version of the Verification of Payee (VOP) scheme rulebook](https://www.europeanpaymentscouncil.eu/document-library/rulebooks/verification-payee-scheme-rulebook) following a public consultation. This rulebook is designed to help payment service providers (PSPs) across the Single Euro Payments Area (SEPA) meet the new regulatory requirements outlined in the EU Instant Payments Regulation (IPR), which amends the SEPA Regulation. 
 
 **What is VOP all about?**
 
@@ -38,6 +38,6 @@ The initial version of the VOP rulebook will focus on verifications for SCT and 
 
 In addition to the rulebook, the EPC has also published:
 *   Comments received during the public consultation on the proposed VOP scheme rulebook, as well as the VOP Task Force's responses.
-*   The first version of the EPC recommendations for the matching processes under the VOP scheme rulebook. 
+*   The [first version of the EPC recommendations for the matching processes](https://www.europeanpaymentscouncil.eu/document-library/other/epc-recommendations-matching-processes-under-verification-payee-scheme) under the VOP scheme rulebook. 
 
 The VOP Application Programming Interface (API) specifications and the updated API Security Framework document will be released by the end of October 2024. The EPC also plans to release further details on achieving reachability and interoperability for the VOP scheme at the EEA level. This will include information on mandatory registration and use of the EPC Directory Service (EDS), as well as the VOP adherence process. 
