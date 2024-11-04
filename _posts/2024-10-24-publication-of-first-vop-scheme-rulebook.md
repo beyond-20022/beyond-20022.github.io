@@ -6,6 +6,8 @@ categories:
 tags:
   - sepa
   - vop
+values:
+    author_profile: false
 ---
 
 ## Publication of the First Verification of Payee Scheme Rulebook
