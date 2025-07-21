@@ -114,6 +114,14 @@ defaults:
     values:
       layout: single
       author_profile: false
+  # _introduction
+  - scope:
+      path: ""
+      type: introduction
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
 category_archive:
   type: liquid
@@ -121,3 +129,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+collections:
+  introduction:
+    output: true
+    permalink: /:collection/:path/
